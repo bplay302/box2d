@@ -1,5 +1,5 @@
 project "Box2D"
-    location "RollOrDie"
+    location "Box2D"
     kind "StaticLib"
     language "C"
     staticruntime "off"
