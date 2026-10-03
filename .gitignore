@@ -15,3 +15,5 @@ CMakeUserPresets.json
 zig-out/
 .zig-cache/
 zig-pkg
+bin/
+bin-int/
